@@ -1,5 +1,7 @@
 git clone <адрес>
-git status
-git add
+git status //инфо о текущем состоянии репозитория
+git add <имя файла>
 git commit -m "месседж"
 git push
+git branch <название новой ветки>
+git checkout <название ветки, на которую нужно переключиться>
