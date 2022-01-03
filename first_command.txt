@@ -1,0 +1,5 @@
+git clone <адрес>
+git status
+git add
+git commit -m "месседж"
+git push
