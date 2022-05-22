@@ -1,2 +1,3 @@
 connect git to ubuntu
 
+вместо пароля вставляем токен
