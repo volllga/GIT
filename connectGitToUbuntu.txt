@@ -1,0 +1,2 @@
+connect git to ubuntu
+
